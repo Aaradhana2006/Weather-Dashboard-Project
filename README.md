@@ -21,10 +21,6 @@ A modern and responsive Weather Dashboard built using HTML, CSS, and JavaScript.
 * OpenWeather API
 * JSON
 
-## 📸 Preview
-
-Add screenshots or a demo GIF/video here.
-
 ## 📂 Project Structure
 
 ```text
