@@ -35,7 +35,7 @@ A modern and responsive Weather Dashboard built using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/Aaradhana2006/Weather-Dashboard-Project)>
    ```
 
 2. Open the project folder.
