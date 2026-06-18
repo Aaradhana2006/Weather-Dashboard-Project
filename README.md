@@ -30,18 +30,6 @@ A modern and responsive Weather Dashboard built using HTML, CSS, and JavaScript.
 └── README.md
 ```
 
-## ⚙️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone <https://github.com/Aaradhana2006/Weather-Dashboard-Project)>
-   ```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
 ## 📚 Learning Outcomes
 
 * Working with REST APIs
